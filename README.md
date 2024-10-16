@@ -1,2 +1,2 @@
-# Leetcode-SQL
-For practising Leetcode SQL problems
+# SQL Practise Projects
+For practising SQL problems
